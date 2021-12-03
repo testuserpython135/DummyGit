@@ -18,6 +18,6 @@ class Test:
         fmt = "test name instance [{}] is getting you {}".format(self.name, fmt)
         return fmt
     def show_msg():
-        msg = "########################################## This is a test message ######################################"
+        msg = "########################################### This is a test message ######################################"
         return msg
         
