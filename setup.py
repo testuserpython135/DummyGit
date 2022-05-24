@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 import time
-import os
+import os1
 
 setup(name='aaaao9dummyfolder',
         packages=['_____aaaao9dummyfolder'],
