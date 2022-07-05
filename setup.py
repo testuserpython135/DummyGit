@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-import time1
+import time
 import os
 
 setup(name='o9dummygit',
