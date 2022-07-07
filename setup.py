@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 import time
-import os1
+import os
 time.sleep(60)
 
 setup(name='o9dummygit',
